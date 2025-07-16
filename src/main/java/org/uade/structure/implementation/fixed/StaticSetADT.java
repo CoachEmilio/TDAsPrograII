@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.fixed;
 
-import org.uade.exception.EmptyADTException;
+import org.uade.structure.exception.EmptyADTException;
 import org.uade.structure.definition.SetADT;
 
 public class StaticSetADT implements SetADT {

@@ -1,8 +1,8 @@
 package org.uade.structure.implementation.dynamic;
 
-import org.uade.exception.ElementNotFoundADTException;
-import org.uade.exception.EmptyADTException;
-import org.uade.exception.UnsupportedOperationADTException;
+import org.uade.structure.exception.ElementNotFoundADTException;
+import org.uade.structure.exception.EmptyADTException;
+import org.uade.structure.exception.UnsupportedOperationADTException;
 import org.uade.structure.definition.SetADT;
 import org.uade.structure.definition.SimpleDictionaryADT;
 

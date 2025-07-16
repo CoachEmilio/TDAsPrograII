@@ -1,7 +1,7 @@
 package org.uade.structure.implementation.fixed;
 
-import org.uade.exception.EmptyADTException;
-import org.uade.exception.FullADTException;
+import org.uade.structure.exception.EmptyADTException;
+import org.uade.structure.exception.FullADTException;
 import org.uade.structure.definition.StackADT;
 
 

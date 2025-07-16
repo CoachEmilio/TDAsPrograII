@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.node;
 
-import org.uade.exception.OutOfRangeADTException;
+import org.uade.structure.exception.OutOfRangeADTException;
 import org.uade.structure.definition.extras.PriorityNodeLinkedListADT;
 
 public class PNodeDLinkedList implements PriorityNodeLinkedListADT {

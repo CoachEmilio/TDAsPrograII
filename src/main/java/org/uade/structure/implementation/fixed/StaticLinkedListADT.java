@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.fixed;
-import org.uade.exception.FullADTException;
-import org.uade.exception.IndexOutOfBoundsADTException;
+import org.uade.structure.exception.FullADTException;
+import org.uade.structure.exception.IndexOutOfBoundsADTException;
 import org.uade.structure.definition.LinkedListADT;
 
 public class StaticLinkedListADT implements LinkedListADT {

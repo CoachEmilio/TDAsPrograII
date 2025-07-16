@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.dynamic.DynamicLlLinkedList;
 
-import org.uade.exception.OutOfRangeADTException;
+import org.uade.structure.exception.OutOfRangeADTException;
 import org.uade.structure.definition.LinkedListADT;
 import org.uade.structure.definition.extras.LlLinkedListADT;
 

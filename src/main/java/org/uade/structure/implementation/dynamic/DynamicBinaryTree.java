@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.dynamic;
 
-import org.uade.exception.EmptyADTException;
+import org.uade.structure.exception.EmptyADTException;
 import org.uade.structure.definition.BinaryTreeADT;
 
 public class DynamicBinaryTree implements BinaryTreeADT {

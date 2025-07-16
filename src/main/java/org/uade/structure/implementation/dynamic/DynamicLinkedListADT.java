@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.dynamic;
 
-import org.uade.exception.IndexOutOfBoundsADTException;
+import org.uade.structure.exception.IndexOutOfBoundsADTException;
 import org.uade.structure.definition.LinkedListADT;
 
 public class DynamicLinkedListADT implements LinkedListADT {

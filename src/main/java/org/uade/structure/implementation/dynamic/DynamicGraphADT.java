@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.dynamic;
 
-import org.uade.exception.ElementNotFoundADTException;
+import org.uade.structure.exception.ElementNotFoundADTException;
 import org.uade.structure.definition.GraphADT;
 import org.uade.structure.definition.SetADT;
 import org.uade.structure.implementation.node.EdgeNode;

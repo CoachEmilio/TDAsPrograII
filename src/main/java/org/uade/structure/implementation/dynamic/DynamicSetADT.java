@@ -1,6 +1,6 @@
 package org.uade.structure.implementation.dynamic;
 
-import org.uade.exception.NoSuchElementADTException;
+import org.uade.structure.exception.NoSuchElementADTException;
 import org.uade.structure.definition.SetADT;
 
 // Esta clase representa la implementación dinámica del TDA Conjunto.
